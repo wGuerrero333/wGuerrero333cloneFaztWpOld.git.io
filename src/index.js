@@ -8,4 +8,3 @@ button.addEventListener('click',()=>{
     alert2();
 })
 
-alert('Funcona ok');
